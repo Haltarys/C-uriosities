@@ -9,6 +9,7 @@ Here is a list of links that provide more information for some of those curiosit
 - <https://youtu.be/_JtPhF8MshA>
 - <https://stackoverflow.com/questions/15897452/tail-recursion-in-gcc-g>
 - <https://youtu.be/nS46JHmSaUM>
+- <https://youtu.be/aMAM5vL7wTs>
 
 ## Compilation
 
