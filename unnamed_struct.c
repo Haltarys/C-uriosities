@@ -7,7 +7,7 @@
 // declare an instance of it.
 // g++ treats this case as an error though.
 
-typedef struct
+struct
 {
     // empty struct are perfectly valid btw
     // their size is 0 of course
