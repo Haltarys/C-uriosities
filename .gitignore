@@ -1,2 +1,6 @@
 a.out
 *.o
+*.bc
+*.json
+*.dsm
+*.ll
